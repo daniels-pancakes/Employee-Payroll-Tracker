@@ -6,11 +6,15 @@ Bootcamp Challenge 03 JavaScript: Modify Starter Code - For this project student
 
 The following functionalities were key in getting the code to accomplish its intended behavior:
 
-[MDN Web Docs on prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
-[MDN Web Docs on confirm](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
-([MDN Web Docs on `while` loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)) 
-([MDN Web Docs on isNaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)) 
-[MDN Web Docs on return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+- [MDN Web Docs on 'prompt'](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+
+- [MDN Web Docs on 'confirm'](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+
+- [MDN Web Docs on `while` loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while) 
+
+- [MDN Web Docs on 'isNaN'](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+
+- [MDN Web Docs on 'return'](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
 
 ## User Story
@@ -43,7 +47,7 @@ There are additional comments to some of my thought process included in the proj
 
 ## Preview
 
-![Preview](./assets/previewscreen.png)
+![Preview](./previewscreen.png)
 
 ## Credits
 
